@@ -7,7 +7,6 @@ Each notebook implements one model:
 - `LSTM_with_Memory_between_Batches.ipynb`: a Long Short Term Memory Neural Network whose memory is not flushed after each batch.
 - `Stacked_LSTM_with_Memory_between_Batches.ipynb` : an LSTM with Memory between Batches with more than one layer. 
 - `LSTM_for_Regression_with_without_Window_Method.ipynb`: a model where the prediction problem is viewed as a regression one.
-- `LSTM_with_Timesteps.ipynb`: 
 - `LSTM_Multi_Step.ipynb`: an LSTM prediting 7 days ahead instead of only one.
 
 

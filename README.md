@@ -1,5 +1,5 @@
 # Time-Series-Prediction
-Predicting the number of arrivals at hospital emergencies using Recurrent Neural Networks (and a Multi-Layer Perceptron for comparison).
+**Predicting the number of arrivals at hospital emergencies using Recurrent Neural Networks (and a Multi-Layer Perceptron for comparison).**
 
 Each notebook implements one model: 
 - `MLP.ipynb`: implements a Multi-Layer Perceptron.
